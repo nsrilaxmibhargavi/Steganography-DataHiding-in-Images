@@ -30,6 +30,30 @@ This project implements image steganography using Python, allowing users to secu
     - Load the encrypted image.
     - Enter the correct passcode to extract the hidden message.
     - If the passcode matches, the message is revealed; otherwise, access is denied.
+
+### Screenshots:
+
+- The main GUI to perform encryption and decryption:
+  
+  ![image](https://github.com/user-attachments/assets/ef44b5a2-d783-42d3-abfd-787cd53d37b8)
+
+- The confirmation message that appears after encryption:     
+
+  ![image](https://github.com/user-attachments/assets/4ad176f6-f01b-4792-a2b1-4c44484ecc80)
+
+- The message that appears after correct passcode is entered to view the secret message:
+
+  ![image](https://github.com/user-attachments/assets/678d7d3a-b869-4871-b780-c8f83aa88ff6)
+
+- The message that appears after incorrect passcode is entered to view the secret message:
+
+  ![image](https://github.com/user-attachments/assets/73469f2e-0bdc-44c2-b8da-d53ead86ecf4)
+
+- The demo is the image before a hidden message is added to it and demo_encrypted is the image in which a secret message is present.
+- They both look the same but using the correct passcode the secret message can be seen.
+
+  ![image](https://github.com/user-attachments/assets/4e8ee3a1-c3ed-47dc-956b-6400b0192310)
+
   
 ### Conclusion:
 
