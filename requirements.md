@@ -1,6 +1,7 @@
 ### Prerequisites
 
-![t8lys06m](https://github.com/user-attachments/assets/1043a286-02f4-432c-918e-46f7f5835929)
+![hqdgufbk](https://github.com/user-attachments/assets/18a6b354-3b90-44d0-888a-76ed5a425eba)
+
 
 - __tkinter –__ Provides the GUI framework for user interaction.
 - __ttk (from tkinter) –__ Enhances the GUI with themed widgets for better aesthetics.
