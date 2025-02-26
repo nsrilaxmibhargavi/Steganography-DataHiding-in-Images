@@ -22,15 +22,14 @@ This project implements image steganography using Python, allowing users to secu
 
 - __Encryption Process:__
 
-        - Select an image file to embed the secret message.
-        - Enter the message and a passcode for security.
-        - The program hides the message within the image using pixel manipulation and saves an encrypted copy.
+   - Select an image file to embed the secret message.
+   - Enter the message and a passcode for security.
+   - The program hides the message within the image using pixel manipulation and saves an encrypted copy.
 
 - __Decryption Process:__
-
-        - Load the encrypted image.
-        - Enter the correct passcode to extract the hidden message.
-        - If the passcode matches, the message is revealed; otherwise, access is denied.
+    - Load the encrypted image.
+    - Enter the correct passcode to extract the hidden message.
+    - If the passcode matches, the message is revealed; otherwise, access is denied.
   
 ### Conclusion:
 
