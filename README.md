@@ -1,5 +1,7 @@
 # Steganography-DataHiding-in-Images
 
+![t8lys06m](https://github.com/user-attachments/assets/b3453a6b-6006-4742-bd63-9ce3ff2b21bb)
+
 ### Project Overview:
 This project implements image steganography using Python, allowing users to securely hide and retrieve secret messages within images. It features a passcode-based security layer, ensuring that only authorized users can decrypt hidden data. The GUI, built with Tkinter, makes encryption and decryption easy and accessible for all users.
 
